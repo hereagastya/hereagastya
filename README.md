@@ -28,7 +28,7 @@
 <h2 align="center">📈 GitHub Statistics</h2>
 <table align = "center">
     <td>
-<img src="https://github-readme-stats.vercel.app/api?username=iamharshpanotra&show_icons=true&locale=en" alt="iamharshpanotra"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hereagastya&show_icons=true&locale=en" alt="hereagastya"/>
     </td>
     <td>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hereagastya&show_icons=true&locale=en&layout=compact" alt="hereagastya" />
