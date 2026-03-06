@@ -1,54 +1,57 @@
-<img align="center" alt="Code and Chill" width="1000" src="https://user-images.githubusercontent.com/84271800/194936626-02de68eb-ce2c-408b-ae0e-4ab6c35e0334.png">
-
-<h1 align="center">Hey, I am Agastya</h1>
-<h3 align="center">Have a cup of Coffee!</h3>
+<h1 align="center">Hey 👋 I'm Agastya</h1>
 
 <p align="center">
-<a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb">
-    <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&center=true&vCenter=true&lines=Software;Web;Frontend;">
-</a>
-</p>
-<div align="center">
-<br>
-<img src = "https://user-images.githubusercontent.com/87887741/138137569-c03af614-7c08-43d8-b2ad-4ea28864022f.gif" width = "100" height = "100">
-
+Full-stack builder who loves turning ideas into real products.
 <br/>
+I build apps, integrate AI, and ship things people actually use.
+</p>
 
-</div>
-
-<div>
-<h1 align="center">⚡ Languages & Technologies</h1>
-    <div align="center">
-      <img
-        src="https://skillicons.dev/icons?i=javascript,html,css,github,bootstrap"
-      />
-    </div>
-    
-<!-- Github Statistics -->
-<h2 align="center">📈 GitHub Statistics</h2>
-<table align = "center">
-    <td>
-<img src="https://github-readme-stats.vercel.app/api?username=hereagastya&show_icons=true&locale=en" alt="hereagastya"/>
-    </td>
-    <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hereagastya&show_icons=true&locale=en&layout=compact" alt="hereagastya" />
-        </td>
-    <td>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hereagastya&" alt="hereagastya" />
-    </td>
-</table>
-<h2 align="center">🔗 Connect With Me:</h2>
 <p align="center">
-<a href="https://twitter.com/iamharshpanotra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamharshpanotra" height="30" width="40" /></a>
+🚀 Founder / Builder of <b>Afterward.fyi</b> — an AI B2C Productive SaaS
+    Founder / Builder of <b>growurfirm.com</b> — My Web dev + Social marketing agency
+</p>
 
-<a href="mailto:sharmaagastya72@gmail.com" target="_blank">
-<img align="center" src="https://user-images.githubusercontent.com/91747922/145641534-6a83084f-2982-449d-9b06-64f8ec368f57.png" alt="sharmaagastya72@gmail.com" height="30" width="40" />
+<br>
+
+<h3 align="center">⚡ What I Do</h3>
+
+<p align="center">
+• Fullstack Development <br>
+• AI Integration in Apps <br>
+• SaaS Building <br>
+• Shipping fast and learning faster
+</p>
+
+<br>
+
+<h3 align="center">🧠 Tech</h3>
+
+<p align="center">
+JavaScript • Node.js • Express • React • APIs • AI
+</p>
+
+<br>
+
+<h3 align="center">📊 GitHub</h3>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=hereagastyaE&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hereagastya&layout=compact&theme=tokyonight" />
+</p>
+
+<br>
+
+<h3 align="center">🌍 Connect</h3>
+
+<p align="center">
+<a href="https://x.com/agastyabuilds">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
 </p>
 
-<!-- Visitor Count -->
-<h2 align = "center">👀Visitor Count<br>
-<img align = "center" src="https://profile-counter.glitch.me/hereagastya/count.svg" />
-</h2>
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<p align="center">
+<i>"I just like building things."</i>
+</p>
