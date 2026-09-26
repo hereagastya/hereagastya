@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="720" viewBox="0 0 840 720" role="img" aria-label="Agastya's life as a git log: from a student in Pune to shipping Afterward and building Duelistt">
+<style>
+  .serif { font-family: Georgia, 'Iowan Old Style', 'Times New Roman', serif; }
+  .mono  { font-family: ui-monospace, 'SF Mono', Menlo, Consolas, monospace; }
+  .line  { fill: none; stroke-width: 2.5; stroke-linecap: round; stroke-dasharray: 1; stroke-dashoffset: 1; animation: draw var(--d) ease-out var(--s) forwards; }
+  .row   { opacity: 0; animation: in .5s ease-out var(--s) forwards; }
+  .tip   { opacity: 0; animation: in .6s ease-out 2.6s forwards; }
+  .pulse { transform-origin: 112px 150px; animation: pulse 1.8s ease-out 2.8s infinite; opacity: 0; }
+  @keyframes draw { to { stroke-dashoffset: 0; } }
+  @keyframes in   { from { opacity: 0; transform: translateX(-4px); } to { opacity: 1; transform: none; } }
+  @keyframes pulse { 0% { opacity: .7; transform: scale(1); } 100% { opacity: 0; transform: scale(3.2); } }
+  @media (prefers-reduced-motion: reduce) {
+    .line { animation: none; stroke-dashoffset: 0; }
+    .row, .tip { animation: none; opacity: 1; }
+    .pulse { animation: none; }
+  }
+</style>
+<rect width="840" height="720" rx="16" fill="#1B2240"/>
+<text x="40" y="58" class="serif" font-size="34" fill="#EDE9E3">Agastya</text>
+<text x="40" y="86" class="serif" font-style="italic" font-size="16" fill="#8E97B8">Student in Pune. I build things, then go find the people who need them.</text>
+<text x="800" y="58" class="mono" font-size="12" fill="#8E97B8" text-anchor="end">$ git log --graph agastya</text>
+<line x1="40" x2="800" y1="106" y2="106" stroke="#2A3358"/>
+<path class="tip" d="M112 136 V116" stroke="#7FB7E6" stroke-width="2.5" stroke-dasharray="3 6" stroke-linecap="round" fill="none"/>
+<path class="line" fill="none" pathLength="1" style="--d:1.9s;--s:.25s" stroke="#EDE9E3" d="M64 600 V250"/>
+<path class="line" fill="none" pathLength="1" style="--d:1s;--s:.7s" stroke="#F2A541" d="M64 500 C64 474 112 476 112 450 V350 C112 324 64 326 64 300"/>
+<path class="line" fill="none" pathLength="1" style="--d:.6s;--s:2.0s" stroke="#7FB7E6" d="M64 250 C64 224 112 226 112 200 V150"/>
+
+<g class="row" style="--s:2.23s">
+<circle class="pulse" cx="112" cy="150" r="6" fill="#7FB7E6"/>
+<circle cx="112" cy="150" r="7" fill="#7FB7E6"/>
+<text x="176" y="154.5" class="mono" font-size="12.5" fill="#7FB7E6">HEAD</text>
+<text x="252" y="155" class="serif" font-size="16.5" fill="#EDE9E3">duelistt.com, still building</text>
+</g>
+<g class="row" style="--s:2.01s">
+<circle cx="112" cy="200" r="6" fill="#1B2240" stroke="#7FB7E6" stroke-width="2.5"/>
+<text x="176" y="204.5" class="mono" font-size="12.5" fill="#8E97B8">d41e7c0</text>
+<text x="252" y="205" class="serif" font-size="16.5" fill="#EDE9E3">start duelistt</text>
+</g>
+<g class="row" style="--s:1.79s">
+<circle cx="64" cy="250" r="6" fill="#1B2240" stroke="#EDE9E3" stroke-width="2.5"/>
+<text x="176" y="254.5" class="mono" font-size="12.5" fill="#8E97B8">b9f03a2</text>
+<text x="252" y="255" class="serif" font-size="16.5" fill="#EDE9E3">branch off again. one product was never going to be enough</text>
+</g>
+<g class="row" style="--s:1.57s">
+<circle cx="64" cy="300" r="7" fill="#1B2240" stroke="#EDE9E3" stroke-width="2.5"/><circle cx="64" cy="300" r="2.5" fill="#F2A541"/>
+<text x="176" y="304.5" class="mono" font-size="12.5" fill="#8E97B8">7c2e915</text>
+<text x="252" y="305" class="serif" font-size="16.5" fill="#EDE9E3">merge afterward: what 80 signups taught me about pricing</text>
+</g>
+<g class="row" style="--s:1.35s">
+<circle cx="112" cy="350" r="6" fill="#1B2240" stroke="#F2A541" stroke-width="2.5"/>
+<text x="176" y="354.5" class="mono" font-size="12.5" fill="#8E97B8">e18a4d6</text>
+<text x="252" y="355" class="serif" font-size="16.5" fill="#EDE9E3">80+ signups, zero rupees spent on ads</text>
+</g>
+<g class="row" style="--s:1.13s">
+<circle cx="112" cy="400" r="6" fill="#1B2240" stroke="#F2A541" stroke-width="2.5"/>
+<text x="176" y="404.5" class="mono" font-size="12.5" fill="#8E97B8">3fa0b77</text>
+<text x="252" y="405" class="serif" font-size="16.5" fill="#EDE9E3">first stranger on the internet pays for something I made</text>
+</g>
+<g class="row" style="--s:0.91s">
+<circle cx="112" cy="450" r="6" fill="#1B2240" stroke="#F2A541" stroke-width="2.5"/>
+<text x="176" y="454.5" class="mono" font-size="12.5" fill="#8E97B8">a6c5d02</text>
+<text x="252" y="455" class="serif" font-size="16.5" fill="#EDE9E3">ship afterward.fyi</text>
+</g>
+<g class="row" style="--s:0.69s">
+<circle cx="64" cy="500" r="6" fill="#1B2240" stroke="#EDE9E3" stroke-width="2.5"/>
+<text x="176" y="504.5" class="mono" font-size="12.5" fill="#8E97B8">59d1e3b</text>
+<text x="252" y="505" class="serif" font-size="16.5" fill="#EDE9E3">branch afterward</text>
+</g>
+<g class="row" style="--s:0.47s">
+<circle cx="64" cy="550" r="6" fill="#1B2240" stroke="#EDE9E3" stroke-width="2.5"/>
+<text x="176" y="554.5" class="mono" font-size="12.5" fill="#8E97B8">0e7b4c8</text>
+<text x="252" y="555" class="serif" font-size="16.5" fill="#EDE9E3">stop watching tutorials, start shipping</text>
+</g>
+<g class="row" style="--s:0.25s">
+<circle cx="64" cy="600" r="6" fill="#1B2240" stroke="#EDE9E3" stroke-width="2.5"/>
+<text x="176" y="604.5" class="mono" font-size="12.5" fill="#8E97B8">1a2b3c4</text>
+<text x="252" y="605" class="serif" font-size="16.5" fill="#8E97B8">init: student, Pune, Maharashtra</text>
+</g>
+<line x1="40" x2="800" y1="662" y2="662" stroke="#2A3358"/>
+<circle cx="45" cy="686" r="4.5" fill="#EDE9E3"/><text x="56" y="690" class="mono" font-size="12" fill="#8E97B8">main</text>
+<circle cx="127" cy="686" r="4.5" fill="#F2A541"/><text x="138" y="690" class="mono" font-size="12" fill="#8E97B8">afterward</text>
+<circle cx="249" cy="686" r="4.5" fill="#7FB7E6"/><text x="260" y="690" class="mono" font-size="12" fill="#8E97B8">duelistt</text>
+<text x="800" y="690" class="serif" font-style="italic" font-size="13" fill="#8E97B8" text-anchor="end">building, marketing, growing. every day.</text>
+</svg>
