@@ -1,57 +1,88 @@
-<h1 align="center">Hey 👋 I'm Agastya</h1>
-
-<p align="center">
-Full-stack builder who loves turning ideas into real products.
-<br/>
-I build apps, integrate AI, and ship things people actually use.
-</p>
-
-<p align="center">
-🚀 Founder / Builder of <b>Afterward.fyi</b> — an AI B2C Productive SaaS
-    Founder / Builder of <b>growurfirm.com</b> — My Web dev + Social marketing agency
-</p>
+<div align="center">
 
 <br>
 
-<h3 align="center">⚡ What I Do</h3>
+# Agastya
 
-<p align="center">
-• Fullstack Development <br>
-• AI Integration in Apps <br>
-• SaaS Building <br>
-• Shipping fast and learning faster
-</p>
+<sub>STUDENT &nbsp;·&nbsp; BUILDER &nbsp;·&nbsp; JAMMU, INDIA</sub>
+
+<br>
+<br>
+
+*I build things, then I go find the people who need them.*<br>
+*Most developers only do the first half.*
 
 <br>
 
-<h3 align="center">🧠 Tech</h3>
+</div>
 
-<p align="center">
-JavaScript • Node.js • Express • React • APIs • AI
-</p>
+---
 
 <br>
 
-<h3 align="center">📊 GitHub</h3>
+### Things I've made
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hereagastyaE&show_icons=true&theme=tokyonight" />
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hereagastya&layout=compact&theme=tokyonight" />
-</p>
+**Afterward** &nbsp;—&nbsp; [afterward.fyi](https://afterward.fyi)<br>
+<sub>AI DECISION SIMULATOR</sub>
+
+Stuck between leaving and staying? Afterward plays both futures forward, the GO path and the STAY path, and puts a number on how sure you actually are.
+
+<sub>`Next.js` `Gemini` `Prisma` `Neon` `Clerk` `Vercel`</sub>
+
+→ 27+ signups and a first paying user from a single Reddit campaign. No ads, no audience.
+
+</td>
+<td width="50%" valign="top">
+
+**Duelistt**<br>
+<sub>[CATEGORY, E.G. "HEAD-TO-HEAD ___ PLATFORM"]</sub>
+
+[Two sentences. What it does, and who it's for. Say it like you'd say it to a friend, not a pitch deck.]
+
+<sub>`[stack]` `[stack]` `[stack]`</sub>
+
+→ [One real number or result. Users, matches, revenue, anything true.]
+
+</td>
+</tr>
+</table>
 
 <br>
 
-<h3 align="center">🌍 Connect</h3>
+### Changelog (of me)
 
-<p align="center">
-<a href="https://x.com/agastyabuilds">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
-</p>
+```diff
++ shipped a product, got a stranger on the internet to pay for it
++ learned that 27 real signups teach more than 270 commits
++ learned that a tool you use once per decision is a terrible subscription
++ learned that a paywall before the "aha" moment is just a wall
+- stopped waiting for things to be ready before showing them to people
+```
 
-<p align="center">
-<i>"I just like building things."</i>
-</p>
+<br>
+
+### How I spend a day
+
+| | |
+|:--|:--|
+| **Build** | Architect the thing, make the product calls, ship fast. |
+| **Market** | Write the post, send the DM, talk to the user. The unglamorous half. |
+| **Grow** | Read the numbers, figure out what broke, do it again tomorrow. |
+
+<br>
+
+### Say hi
+
+If you're building something, selling something, or just figuring it out as you go like me, I'd like to hear about it.
+
+[Instagram](https://instagram.com/agastya.speaks) &nbsp;·&nbsp; [Email](mailto:[your@email.com]) &nbsp;·&nbsp; [X / LinkedIn](#)
+
+<br>
+
+<div align="center">
+<sub>still a student. already shipping.</sub>
+</div>
