@@ -1,51 +1,31 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/git-log.svg" width="100%" alt="Agastya's life as a git log: from a student in Pune to shipping Afterward and building Duelistt">
+</p>
 
 <br>
-
-# Agastya
-
-<sub>STUDENT &nbsp;·&nbsp; BUILDER &nbsp;·&nbsp; JAMMU, INDIA</sub>
-
-<br>
-<br>
-
-*I build things, then I go find the people who need them.*<br>
-*Most developers only do the first half.*
-
-<br>
-
-</div>
-
----
-
-<br>
-
-### Things I've made
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**Afterward** &nbsp;—&nbsp; [afterward.fyi](https://afterward.fyi)<br>
-<sub>AI DECISION SIMULATOR</sub>
+### [Afterward](https://afterward.fyi)
 
-Stuck between leaving and staying? Afterward plays both futures forward, the GO path and the STAY path, and puts a number on how sure you actually are.
+Stuck between leaving and staying? Afterward plays both futures forward, the GO path and the STAY path, and tells you how sure you really are.
 
-<sub>`Next.js` `Gemini` `Prisma` `Neon` `Clerk` `Vercel`</sub>
+**80+ signups** and a first paying customer, all from Reddit posts I wrote myself. Zero ad spend.
 
-→ 27+ signups and a first paying user from a single Reddit campaign. No ads, no audience.
+<sub>Next.js · Gemini · Prisma · Neon · Clerk · Vercel</sub>
 
 </td>
 <td width="50%" valign="top">
 
-**Duelistt**<br>
-<sub>[CATEGORY, E.G. "HEAD-TO-HEAD ___ PLATFORM"]</sub>
+### [Duelistt](https://duelistt.com)
 
-[Two sentences. What it does, and who it's for. Say it like you'd say it to a friend, not a pitch deck.]
+Still building. The commits are going in right now, and the graph above will get a new line when it ships.
 
-<sub>`[stack]` `[stack]` `[stack]`</sub>
+[Tracker for people who cold outreach just like me.]
 
-→ [One real number or result. Users, matches, revenue, anything true.]
+<sub>[stack] · [stack] · [stack]</sub>
 
 </td>
 </tr>
@@ -53,36 +33,32 @@ Stuck between leaving and staying? Afterward plays both futures forward, the GO 
 
 <br>
 
-### Changelog (of me)
+### You've got a decision to make
 
-```diff
-+ shipped a product, got a stranger on the internet to pay for it
-+ learned that 27 real signups teach more than 270 commits
-+ learned that a tool you use once per decision is a terrible subscription
-+ learned that a paywall before the "aha" moment is just a wall
-- stopped waiting for things to be ready before showing them to people
-```
+Afterward is about GO vs STAY, so this profile is too. Pick one.
+
+<details>
+<summary><b>GO</b> &nbsp;I'm building something and want to talk to someone who ships and sells</summary>
 
 <br>
 
-### How I spend a day
+Good. I like people who are in the middle of something. Tell me what you're building, what's stuck, or what you're trying to sell.
 
-| | |
-|:--|:--|
-| **Build** | Architect the thing, make the product calls, ship fast. |
-| **Market** | Write the post, send the DM, talk to the user. The unglamorous half. |
-| **Grow** | Read the numbers, figure out what broke, do it again tomorrow. |
+[Instagram @agastya.speaks](https://instagram.com/agastya.speaks) &nbsp;/&nbsp; [Email](mailto:sharmaagastya72@gmail.com) &nbsp;/&nbsp; [X](https://x.com/agastyabuilds)
 
-<br>
+</details>
 
-### Say hi
-
-If you're building something, selling something, or just figuring it out as you go like me, I'd like to hear about it.
-
-[Instagram](https://instagram.com/agastya.speaks) &nbsp;·&nbsp; [Email](mailto:[your@email.com]) &nbsp;·&nbsp; [X / LinkedIn](#)
+<details>
+<summary><b>STAY</b> &nbsp;I'm just scrolling</summary>
 
 <br>
 
-<div align="center">
-<sub>still a student. already shipping.</sub>
-</div>
+Fair. Afterward's simulation for this path: in six months you'll remember a guy from Pune who was building in public, and you'll wish you'd hit follow.
+
+Cheaper to just hit follow.
+
+</details>
+
+<br>
+
+<p align="right"><sub><i>last commit: today. there's always a next one.</i></sub></p>
