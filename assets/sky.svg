@@ -1,0 +1,160 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="500" viewBox="0 0 840 500" role="img" aria-label="Agastya's skills drawn as two constellations: building and selling">
+<defs>
+  <linearGradient id="trail" x1="1" y1="0" x2="0" y2="0">
+    <stop offset="0" stop-color="#EDE9E3" stop-opacity="0"/><stop offset="1" stop-color="#EDE9E3" stop-opacity=".95"/>
+  </linearGradient>
+  <radialGradient id="glow"><stop offset="0" stop-color="#EDE9E3" stop-opacity=".35"/><stop offset="1" stop-color="#EDE9E3" stop-opacity="0"/></radialGradient>
+</defs>
+<style>
+  .serif { font-family: Georgia, 'Iowan Old Style', 'Times New Roman', serif; }
+  .meteor { opacity: 0; animation: fall 9s linear 1.5s infinite; }
+  @keyframes fall {
+    0%   { opacity: 0; transform: translate(0,0); }
+    2%   { opacity: 1; }
+    9%   { opacity: 0; transform: translate(-300px,150px); }
+    100% { opacity: 0; transform: translate(-300px,150px); }
+  }
+  @media (prefers-reduced-motion: reduce) { .meteor { animation: none; } }
+</style>
+<rect width="840" height="500" rx="16" fill="#1B2240"/>
+<circle cx="279" cy="89" r="0.6" fill="#EDE9E3" opacity="0.17"/>
+<circle cx="449" cy="188" r="0.6" fill="#EDE9E3" opacity="0.42"/>
+<circle cx="192" cy="60" r="1.2" fill="#EDE9E3" opacity="0.17"/>
+<circle cx="93" cy="215" r="0.6" fill="#EDE9E3" opacity="0.43"/>
+<circle cx="525" cy="288" r="0.6" fill="#EDE9E3" opacity="0.32"/>
+<circle cx="337" cy="469" r="0.6" fill="#EDE9E3" opacity="0.32"/>
+<circle cx="127" cy="213" r="0.6" fill="#EDE9E3" opacity="0.32"/>
+<circle cx="468" cy="334" r="0.6" fill="#EDE9E3" opacity="0.32"/>
+<circle cx="531" cy="191" r="0.6" fill="#EDE9E3" opacity="0.32"/>
+<circle cx="515" cy="248" r="1.2" fill="#EDE9E3" opacity="0.38"/>
+<circle cx="392" cy="445" r="1.0" fill="#EDE9E3" opacity="0.24"/>
+<circle cx="656" cy="342" r="0.8" fill="#EDE9E3" opacity="0.17"/>
+<circle cx="260" cy="248" r="1.0" fill="#EDE9E3" opacity="0.37"/>
+<circle cx="250" cy="471" r="0.6" fill="#EDE9E3" opacity="0.30"/>
+<circle cx="152" cy="177" r="1.2" fill="#EDE9E3" opacity="0.28"/>
+<circle cx="790" cy="56" r="1.0" fill="#EDE9E3" opacity="0.25"/>
+<circle cx="300" cy="248" r="1.2" fill="#EDE9E3" opacity="0.17"/>
+<circle cx="95" cy="144" r="0.6" fill="#EDE9E3" opacity="0.17"/>
+<circle cx="581" cy="318" r="1.2" fill="#EDE9E3" opacity="0.24"/>
+<circle cx="329" cy="328" r="0.6" fill="#EDE9E3" opacity="0.43"/>
+<circle cx="304" cy="301" r="1.2" fill="#EDE9E3" opacity="0.17"/>
+<circle cx="635" cy="79" r="0.8" fill="#EDE9E3" opacity="0.27"/>
+<circle cx="753" cy="248" r="0.8" fill="#EDE9E3" opacity="0.28"/>
+<circle cx="460" cy="426" r="1.2" fill="#EDE9E3" opacity="0.41"/>
+<circle cx="243" cy="211" r="1.0" fill="#EDE9E3" opacity="0.35"/>
+<circle cx="324" cy="126" r="0.6" fill="#EDE9E3" opacity="0.20"/>
+<circle cx="206" cy="127" r="1.2" fill="#EDE9E3" opacity="0.40"/>
+<circle cx="166" cy="150" r="0.8" fill="#EDE9E3" opacity="0.28"/>
+<circle cx="315" cy="281" r="0.8" fill="#EDE9E3" opacity="0.36"/>
+<circle cx="432" cy="304" r="0.6" fill="#EDE9E3" opacity="0.29"/>
+<circle cx="717" cy="458" r="1.2" fill="#EDE9E3" opacity="0.27"/>
+<circle cx="335" cy="242" r="1.2" fill="#EDE9E3" opacity="0.17"/>
+<circle cx="74" cy="116" r="0.8" fill="#EDE9E3" opacity="0.18"/>
+<circle cx="501" cy="67" r="0.8" fill="#EDE9E3" opacity="0.31"/>
+<circle cx="779" cy="302" r="0.6" fill="#EDE9E3" opacity="0.41"/>
+<circle cx="511" cy="88" r="1.0" fill="#EDE9E3" opacity="0.44"/>
+<circle cx="502" cy="238" r="0.6" fill="#EDE9E3" opacity="0.40"/>
+<circle cx="814" cy="234" r="1.2" fill="#EDE9E3" opacity="0.24"/>
+<circle cx="135" cy="365" r="1.0" fill="#EDE9E3" opacity="0.29"/>
+<circle cx="574" cy="258" r="0.8" fill="#EDE9E3" opacity="0.44"/>
+<circle cx="443" cy="87" r="0.6" fill="#EDE9E3" opacity="0.38"/>
+<circle cx="258" cy="316" r="0.6" fill="#EDE9E3" opacity="0.36"/>
+<circle cx="229" cy="189" r="0.8" fill="#EDE9E3" opacity="0.26"/>
+<circle cx="198" cy="269" r="1.0" fill="#EDE9E3" opacity="0.34"/>
+<circle cx="511" cy="383" r="0.8" fill="#EDE9E3" opacity="0.39"/>
+<circle cx="675" cy="360" r="0.8" fill="#EDE9E3" opacity="0.21"/>
+<circle cx="414" cy="356" r="0.6" fill="#EDE9E3" opacity="0.39"/>
+<circle cx="398" cy="109" r="1.0" fill="#EDE9E3" opacity="0.28"/>
+<circle cx="770" cy="474" r="1.0" fill="#EDE9E3" opacity="0.17"/>
+<circle cx="102" cy="236" r="1.0" fill="#EDE9E3" opacity="0.21"/>
+<circle cx="519" cy="434" r="0.6" fill="#EDE9E3" opacity="0.29"/>
+<circle cx="542" cy="388" r="0.6" fill="#EDE9E3" opacity="0.40"/>
+<circle cx="116" cy="199" r="0.8" fill="#EDE9E3" opacity="0.29"/>
+<circle cx="163" cy="383" r="1.0" fill="#EDE9E3" opacity="0.18"/>
+<circle cx="777" cy="352" r="1.2" fill="#EDE9E3" opacity="0.27"/>
+<circle cx="42" cy="292" r="1.2" fill="#EDE9E3" opacity="0.39"/>
+<circle cx="137" cy="400" r="1.2" fill="#EDE9E3" opacity="0.35"/>
+<circle cx="300" cy="272" r="0.8" fill="#EDE9E3" opacity="0.16"/>
+<circle cx="659" cy="354" r="0.6" fill="#EDE9E3" opacity="0.31"/>
+<circle cx="767" cy="220" r="0.8" fill="#EDE9E3" opacity="0.40"/>
+<circle cx="189" cy="136" r="1.0" fill="#EDE9E3" opacity="0.30"/>
+<circle cx="631" cy="170" r="1.2" fill="#EDE9E3" opacity="0.40"/>
+<circle cx="69" cy="360" r="1.2" fill="#EDE9E3" opacity="0.35"/>
+<circle cx="672" cy="258" r="0.8" fill="#EDE9E3" opacity="0.31"/>
+<circle cx="439" cy="29" r="1.2" fill="#EDE9E3" opacity="0.38"/>
+<circle cx="507" cy="377" r="0.8" fill="#EDE9E3" opacity="0.20"/>
+<circle cx="399" cy="354" r="0.6" fill="#EDE9E3" opacity="0.25"/>
+<circle cx="435" cy="276" r="0.6" fill="#EDE9E3" opacity="0.41"/>
+<circle cx="65" cy="108" r="0.6" fill="#EDE9E3" opacity="0.38"/>
+<circle cx="510" cy="253" r="0.8" fill="#EDE9E3" opacity="0.36"/>
+<circle cx="382" cy="265" r="1.2" fill="#EDE9E3" opacity="0.30"/>
+<circle cx="218" cy="261" r="1.0" fill="#EDE9E3" opacity="0.43"/>
+<circle cx="734" cy="113" r="1.2" fill="#EDE9E3" opacity="0.19"/>
+<circle cx="363" cy="118" r="1.0" fill="#EDE9E3" opacity="0.39"/>
+<circle cx="738" cy="91" r="1.0" fill="#EDE9E3" opacity="0.19"/>
+<circle cx="726" cy="465" r="0.8" fill="#EDE9E3" opacity="0.37"/>
+<circle cx="95" cy="427" r="0.8" fill="#EDE9E3" opacity="0.45"/>
+<circle cx="686" cy="94" r="1.2" fill="#EDE9E3" opacity="0.45"/>
+<circle cx="343" cy="214" r="1.0" fill="#EDE9E3" opacity="0.25"/>
+<circle cx="598" cy="29" r="1.2" fill="#EDE9E3" opacity="0.28"/>
+<circle cx="34" cy="172" r="1.0" fill="#EDE9E3" opacity="0.30"/>
+<circle cx="71" cy="473" r="0.8" fill="#EDE9E3" opacity="0.44"/>
+<circle cx="104" cy="142" r="0.6" fill="#EDE9E3" opacity="0.42"/>
+<circle cx="165" cy="368" r="1.2" fill="#EDE9E3" opacity="0.40"/>
+<circle cx="561" cy="455" r="1.2" fill="#EDE9E3" opacity="0.19"/>
+<circle cx="755" cy="282" r="1.0" fill="#EDE9E3" opacity="0.18"/>
+<circle cx="66" cy="337" r="1.2" fill="#EDE9E3" opacity="0.42"/>
+<text x="40" y="54" class="serif" font-size="24" fill="#EDE9E3">What I work with</text>
+<text x="40" y="80" class="serif" font-style="italic" font-size="15" fill="#8E97B8">Two constellations. One for building the thing, one for getting it in front of people.</text>
+<line x1="80" y1="275" x2="120" y2="190" stroke="#7FB7E6" stroke-opacity=".45" stroke-width="1.2"/>
+<line x1="120" y1="190" x2="215" y2="145" stroke="#7FB7E6" stroke-opacity=".45" stroke-width="1.2"/>
+<line x1="215" y1="145" x2="385" y2="150" stroke="#7FB7E6" stroke-opacity=".45" stroke-width="1.2"/>
+<line x1="215" y1="145" x2="315" y2="200" stroke="#7FB7E6" stroke-opacity=".45" stroke-width="1.2"/>
+<line x1="315" y1="200" x2="290" y2="300" stroke="#7FB7E6" stroke-opacity=".45" stroke-width="1.2"/>
+<line x1="290" y1="300" x2="380" y2="280" stroke="#7FB7E6" stroke-opacity=".45" stroke-width="1.2"/>
+<line x1="290" y1="300" x2="170" y2="330" stroke="#7FB7E6" stroke-opacity=".45" stroke-width="1.2"/>
+<line x1="170" y1="330" x2="80" y2="275" stroke="#7FB7E6" stroke-opacity=".45" stroke-width="1.2"/>
+<circle cx="120" cy="190" r="15" fill="url(#glow)"/><circle cx="120" cy="190" r="5" fill="#EDE9E3"/>
+<text x="133" y="179" class="serif" font-size="14" fill="#EDE9E3">Next.js</text>
+<circle cx="215" cy="145" r="13.5" fill="url(#glow)"/><circle cx="215" cy="145" r="4.5" fill="#EDE9E3"/>
+<text x="227.5" y="134.5" class="serif" font-size="14" fill="#EDE9E3">TypeScript</text>
+<circle cx="315" cy="200" r="10.5" fill="url(#glow)"/><circle cx="315" cy="200" r="3.5" fill="#EDE9E3"/>
+<text x="326.5" y="190.5" class="serif" font-size="14" fill="#EDE9E3">Prisma</text>
+<circle cx="290" cy="300" r="10.5" fill="url(#glow)"/><circle cx="290" cy="300" r="3.5" fill="#EDE9E3"/>
+<text x="301.5" y="290.5" class="serif" font-size="14" fill="#EDE9E3">Postgres</text>
+<circle cx="380" cy="280" r="9" fill="url(#glow)"/><circle cx="380" cy="280" r="3" fill="#EDE9E3"/>
+<text x="391" y="271" class="serif" font-size="14" fill="#EDE9E3">Vercel</text>
+<circle cx="170" cy="330" r="9" fill="url(#glow)"/><circle cx="170" cy="330" r="3" fill="#EDE9E3"/>
+<text x="181" y="321" class="serif" font-size="14" fill="#EDE9E3">Clerk</text>
+<circle cx="385" cy="150" r="9" fill="url(#glow)"/><circle cx="385" cy="150" r="3" fill="#EDE9E3"/>
+<text x="396" y="141" class="serif" font-size="14" fill="#EDE9E3">Gemini API</text>
+<circle cx="80" cy="275" r="12" fill="url(#glow)"/><circle cx="80" cy="275" r="4" fill="#EDE9E3"/>
+<text x="92" y="265" class="serif" font-size="14" fill="#EDE9E3">Claude Code</text>
+<text x="40" y="438" class="serif" font-style="italic" font-size="16" fill="#7FB7E6">the build</text>
+<line x1="510" y1="170" x2="615" y2="130" stroke="#F2A541" stroke-opacity=".45" stroke-width="1.2"/>
+<line x1="615" y1="130" x2="730" y2="190" stroke="#F2A541" stroke-opacity=".45" stroke-width="1.2"/>
+<line x1="730" y1="190" x2="700" y2="300" stroke="#F2A541" stroke-opacity=".45" stroke-width="1.2"/>
+<line x1="700" y1="300" x2="560" y2="300" stroke="#F2A541" stroke-opacity=".45" stroke-width="1.2"/>
+<line x1="560" y1="300" x2="510" y2="170" stroke="#F2A541" stroke-opacity=".45" stroke-width="1.2"/>
+<line x1="700" y1="300" x2="785" y2="375" stroke="#F2A541" stroke-opacity=".45" stroke-width="1.2"/>
+<line x1="560" y1="300" x2="480" y2="380" stroke="#F2A541" stroke-opacity=".45" stroke-width="1.2"/>
+<circle cx="510" cy="170" r="15" fill="url(#glow)"/><circle cx="510" cy="170" r="5" fill="#EDE9E3"/>
+<text x="523" y="159" class="serif" font-size="14" fill="#EDE9E3">Cold email</text>
+<circle cx="615" cy="130" r="13.5" fill="url(#glow)"/><circle cx="615" cy="130" r="4.5" fill="#EDE9E3"/>
+<text x="627.5" y="119.5" class="serif" font-size="14" fill="#EDE9E3">Copywriting</text>
+<circle cx="730" cy="190" r="12" fill="url(#glow)"/><circle cx="730" cy="190" r="4" fill="#EDE9E3"/>
+<text x="718" y="180" class="serif" font-size="14" fill="#EDE9E3" text-anchor="end">Reddit launches</text>
+<circle cx="700" cy="300" r="12" fill="url(#glow)"/><circle cx="700" cy="300" r="4" fill="#EDE9E3"/>
+<text x="712" y="290" class="serif" font-size="14" fill="#EDE9E3">Sales calls</text>
+<circle cx="560" cy="300" r="13.5" fill="url(#glow)"/><circle cx="560" cy="300" r="4.5" fill="#EDE9E3"/>
+<text x="572.5" y="289.5" class="serif" font-size="14" fill="#EDE9E3">Product design</text>
+<circle cx="785" cy="375" r="9" fill="url(#glow)"/><circle cx="785" cy="375" r="3" fill="#EDE9E3"/>
+<text x="774" y="366" class="serif" font-size="14" fill="#EDE9E3" text-anchor="end">Instagram</text>
+<circle cx="480" cy="380" r="9" fill="url(#glow)"/><circle cx="480" cy="380" r="3" fill="#EDE9E3"/>
+<text x="491" y="371" class="serif" font-size="14" fill="#EDE9E3">Talking to users</text>
+<text x="470" y="438" class="serif" font-style="italic" font-size="16" fill="#F2A541">the sell</text>
+<line x1="40" x2="800" y1="458" y2="458" stroke="#2A3358"/>
+<text x="40" y="482" class="serif" font-style="italic" font-size="13" fill="#8E97B8">Pune sky, city lights and all.</text>
+<text x="800" y="482" class="serif" font-style="italic" font-size="13" fill="#8E97B8" text-anchor="end">still haven't seen a real meteor. this one doesn't count.</text>
+<g class="meteor"><line x1="690" y1="40" x2="800" y2="-15" stroke="url(#trail)" stroke-width="2" stroke-linecap="round"/></g>
+</svg>
