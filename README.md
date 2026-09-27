@@ -4,60 +4,39 @@
 
 <br>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+I'm Agastya, a student from Pune who can't stop starting things.
 
-### [Afterward](https://afterward.fyi)
+Most people I know either build or sell. I try to do both. I design the product, ship it, then go do the unglamorous half: cold emails, Reddit posts, sales calls, until someone who isn't my friend is using it. Then I start again.
 
-Stuck between leaving and staying? Afterward plays both futures forward, the GO path and the STAY path, and tells you how sure you really are.
-
-**80+ signups** and a first paying customer, all from Reddit posts I wrote myself. Zero ad spend.
-
-<sub>Next.js · Gemini · Prisma · Neon · Clerk · Vercel</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### [Duelistt](https://duelistt.com)
-
-Still building. The commits are going in right now, and the graph above will get a new line when it ships.
-
-[Tracker for people who cold outreach just like me.]
-
-<sub>[stack] · [stack] · [stack]</sub>
-
-</td>
-</tr>
-</table>
+I like software that feels calm and does one thing well. Linear, Notion, Resend and Cal.com are the bar I hold my own work to.
 
 <br>
 
-### You've got a decision to make
+### Things I've made
 
-Afterward is about GO vs STAY, so this profile is too. Pick one.
-
-<details>
-<summary><b>GO</b> &nbsp;I'm building something and want to talk to someone who ships and sells</summary>
-
-<br>
-
-Good. I like people who are in the middle of something. Tell me what you're building, what's stuck, or what you're trying to sell.
-
-[Instagram @agastya.speaks](https://instagram.com/agastya.speaks) &nbsp;/&nbsp; [Email](mailto:sharmaagastya72@gmail.com) &nbsp;/&nbsp; [X](https://x.com/agastyabuilds)
-
-</details>
-
-<details>
-<summary><b>STAY</b> &nbsp;I'm just scrolling</summary>
+| Project | Status | What it is |
+|:--|:--|:--|
+| **[Duelistt](https://duelistt.com)** | building | [One line on what Duelistt does.] |
+| **[Afterward](https://afterward.fyi)** | shut down | An AI decision simulator that played out the GO and STAY versions of a big choice. 80+ signups and a first paying user from Reddit alone, zero ad spend. I closed it and kept the lessons. |
+| **FitPitch** | experiment | Scores how well a lead fits your offer and writes the opening line of the cold email. Built to see if I could sell a tiny paid tool. |
 
 <br>
 
-Fair. Afterward's simulation for this path: in six months you'll remember a guy from Pune who was building in public, and you'll wish you'd hit follow.
+<p align="center">
+  <img src="./assets/sky.svg" width="100%" alt="Skills drawn as two constellations. The build: Next.js, TypeScript, Prisma, Postgres, Vercel, Clerk, Gemini API, Claude Code. The sell: cold email, copywriting, Reddit launches, sales calls, product design, Instagram, talking to users.">
+</p>
 
-Cheaper to just hit follow.
+<br>
 
-</details>
+### Off the keyboard
+
+I look at the sky more than most people in a city should. I also write about the quieter side of building, the spiritual stuff nobody puts in a launch post, on Instagram.
+
+<br>
+
+### Find me
+
+[Instagram](https://instagram.com/agastya.speaks) &nbsp;/&nbsp; [X](https://x.com/agastyabuilds) &nbsp;/&nbsp; [Email](mailto:sharmaagastya72@gmail.com)
 
 <br>
 
