@@ -16,7 +16,7 @@ I like software that feels calm and does one thing well. Linear, Notion, Resend 
 
 | Project | Status | What it is |
 |:--|:--|:--|
-| **[Duelistt](https://duelistt.com)** | building | [One line on what Duelistt does.] |
+| **[Duelistt](https://duelistt.com)** | building | A cold outreach tracker for people who outreach, just like me. Not a CRM, just the nag you actually want. |
 | **[Afterward](https://afterward.fyi)** | shut down | An AI decision simulator that played out the GO and STAY versions of a big choice. 80+ signups and a first paying user from Reddit alone, zero ad spend. I closed it and kept the lessons. |
 | **FitPitch** | experiment | Scores how well a lead fits your offer and writes the opening line of the cold email. Built to see if I could sell a tiny paid tool. |
 
